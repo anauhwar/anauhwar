@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Akash Nauhwar
 - 👀 I’m interested in Data 📊💻📈
-- 🌱 I’m currently Pursuing MBA in Business Analytics
+- 🌱 I have completed my MBA in Business Analytics
+- 🌱 PGP in Banking and Finance
 - 📫 anauhwar@gmail.com
 
 <!---
