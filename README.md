@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Akash Nauhwar
 - 👀 I’m interested in Data 📊💻📈
+- 🧑‍💻 Data Engineer @ TCS
 - 🌱 I have completed my MBA in Business Analytics
 - 🌱 PGP in Banking and Finance
 - 📫 anauhwar@gmail.com
