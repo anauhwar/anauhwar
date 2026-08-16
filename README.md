@@ -1,79 +1,122 @@
-<h1 align="center">Akash Nauhwar</h1>
+<div align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Akash Nauhwar — Senior Cloud and Data Engineer" />
+</div>
 
 <p align="center">
-  <strong>Senior Cloud & Data Engineer</strong><br/>
-  Building governed lakehouses, observable data platforms, and enterprise digital threads.
+  <a href="https://anauhwar.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Explore_Portfolio-3867F4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/akash-nauhwar"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:akash.nauhwar@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Start_a_Conversation-101B34?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <a href="https://anauhwar.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-3867F4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/akash-nauhwar"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:akash.nauhwar@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-101B34?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/9%2B_YEARS-Enterprise_Engineering-101B34?style=flat-square" alt="9+ years" />
+  <img src="https://img.shields.io/badge/12_TB-Data_Estate-123F55?style=flat-square" alt="12 TB data estate" />
+  <img src="https://img.shields.io/badge/~1%2C000-Consumers-3867F4?style=flat-square" alt="Approximately 1,000 consumers" />
+  <img src="https://img.shields.io/badge/50%2B-Production_Jobs-8057E8?style=flat-square" alt="50+ production jobs" />
 </p>
 
----
+## 👋 About me
 
-### Engineering data platforms from architecture to production
+I am a **Senior Cloud & Data Engineer** with **9+ years of enterprise experience**, building data systems from architecture through production. My work connects ingestion, lakehouse transformation, APIs, observability, governance, and FinOps—turning fragmented enterprise data into dependable products and explainable decisions.
 
-I am a Senior Cloud & Data Engineer with **9+ years of enterprise engineering experience**. I design systems that connect ingestion, lakehouse transformation, APIs, observability, governance, and cost control—so data products remain reliable after they reach production.
+> **My engineering lens:** a platform is not finished when the pipeline runs; it is finished when teams can operate it, trust it, explain it, and control its cost.
 
-My core platform is **Microsoft Azure + Databricks**, with hands-on delivery across Azure Data Factory, ADLS Gen2, PySpark, Delta Lake, Azure Data Explorer, KQL, Synapse, Snowflake, SAP HANA, PostgreSQL, FastAPI, and event-driven integration.
+## 🧭 What I engineer
 
-| 9+ years | 12 TB estate | ~1,000 consumers | 50+ production jobs |
-|:---:|:---:|:---:|:---:|
-| Enterprise engineering | Platform scale | Data-product reach | ADF + Databricks orchestration |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏗️ Data platforms</h3>
+      Azure lakehouses, medallion layers, reusable ingestion contracts, scalable PySpark transformations, and governed analytical products.
+    </td>
+    <td width="33%" valign="top">
+      <h3>📡 Observability</h3>
+      Centralized telemetry, KQL analytics, job health, SLA monitoring, lineage, data quality, reprocessing, and cloud FinOps.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔗 Digital threads</h3>
+      Cross-system PLM, ERP, manufacturing, quality, fleet, and regulatory relationships exposed through governed APIs and decision surfaces.
+    </td>
+  </tr>
+</table>
 
-### Platform expertise
+## ⚙️ Core technology
 
-<p>
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
-  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111">
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="Azure" title="Microsoft Azure" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="45" alt="Databricks" title="Databricks" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="45" alt="Apache Spark" title="Apache Spark" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="45" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="45" alt="GitHub Actions" title="GitHub Actions" />
+</div>
 
-| Data platforms | Architecture & integration | Reliability & governance |
+<br/>
+
+| Platform engineering | Architecture & integration | Reliability & governance |
 |---|---|---|
-| Databricks, ADF, ADLS Gen2, ADX, Synapse, Snowflake | Lakehouse, Medallion, Event Hub, APIs, SAP HANA | KQL, Azure Monitor, Grafana, RBAC, CI/CD, FinOps |
+| Databricks · ADF · ADLS Gen2 · ADX · Synapse · Snowflake | Lakehouse · Medallion · Event Hub · APIs · SAP HANA | KQL · Azure Monitor · Grafana · RBAC · CI/CD · FinOps |
 
-### Featured engineering work
+## 🚀 Featured engineering work
 
-| Project | What it demonstrates |
-|---|---|
-| **[AeroTwin Recovery](https://github.com/anauhwar/aerotwin-recovery)** | Aircraft configuration and disruption digital twin spanning PLM, supply, production, delivery, fleet, maintenance, quality, and explainable recovery decisions. |
-| **[MedTech ReleaseGraph](https://github.com/anauhwar/medtech-releasegraph)** | Regulated-product digital thread that converts requirements, tests, evidence, ERP, manufacturing, and quality records into configuration-specific release readiness. |
-| **[Windchill ChangeGraph 360](https://github.com/anauhwar/windchill-changegraph-360)** | Explainable engineering-change impact across affected parts, BOM paths, ERP alignment, cycle time, and data-quality controls. |
-| **[Windchill BOMGraph Accelerator](https://github.com/anauhwar/windchill-bomgraph-accelerator)** | Configuration-aware BOM reachability and where-used analysis using precomputed graph paths and governed APIs. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✈️ <a href="https://github.com/anauhwar/aerotwin-recovery">AeroTwin Recovery</a></h3>
+      Aircraft disruption digital twin spanning PLM, supply, production, delivery, fleet, maintenance, quality, and explainable recovery decisions.<br/><br/>
+      <code>Vue</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Cytoscape</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 <a href="https://github.com/anauhwar/medtech-releasegraph">MedTech ReleaseGraph</a></h3>
+      Regulated-product digital thread converting requirements, tests, evidence, ERP, manufacturing, and quality records into release readiness.<br/><br/>
+      <code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>React Flow</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕸️ <a href="https://github.com/anauhwar/windchill-changegraph-360">Windchill ChangeGraph 360</a></h3>
+      Explainable engineering-change impact across parts, BOM paths, ERP alignment, cycle time, and data-quality controls.<br/><br/>
+      <code>Python</code> <code>Streamlit</code> <code>Medallion</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/anauhwar/windchill-bomgraph-accelerator">BOMGraph Accelerator</a></h3>
+      Configuration-aware BOM reachability and where-used analysis using precomputed graph paths and governed APIs.<br/><br/>
+      <code>FastAPI</code> <code>PostgreSQL</code> <code>Python</code> <code>Streamlit</code>
+    </td>
+  </tr>
+</table>
 
-All portfolio datasets are synthetic. The repositories are structured as enterprise initiatives with architecture, data models, implementation plans, quality controls, Docker deployment, and professional documentation.
+> 🧪 All portfolio datasets are synthetic. Each repository is structured as an enterprise initiative with architecture, data models, implementation plans, quality controls, Docker deployment, and professional documentation.
 
-### How I approach engineering
+## 🧠 Engineering principles
 
-- **Design for operations:** monitoring, traceability, reprocessing, ownership, and cost are part of the architecture.
-- **Make decisions explainable:** metrics and recommendations must trace back to governed source records and transformations.
-- **Build reusable platform contracts:** ingestion, medallion layers, APIs, and controls should scale beyond one use case.
-- **Connect technology to outcomes:** performance, reliability, adoption, risk, and delivery speed are the measures that matter.
+- **Design for operations** — monitoring, traceability, reprocessing, ownership, and cost belong in the architecture.
+- **Make decisions explainable** — every metric and recommendation should trace to governed records and transformations.
+- **Build reusable contracts** — ingestion, medallion layers, APIs, and controls should scale beyond one use case.
+- **Measure outcomes** — performance, reliability, adoption, risk, and delivery speed matter more than technology for its own sake.
 
-### Credentials
+## 🏅 Credentials
 
-- Databricks Certified Data Engineer Professional
-- Databricks Certified Generative AI Engineer Associate
-- Microsoft Certified: Azure Data Engineer Associate
-- Microsoft Certified: Fabric Analytics Engineer Associate
-- Microsoft Certified: Azure Administrator Associate
-- Microsoft Certified: Power BI Data Analyst Associate
-- Lean Six Sigma Green Belt · Scrum Fundamentals Certified
+<details open>
+  <summary><strong>Databricks, Microsoft & delivery excellence</strong></summary>
+  <br/>
+
+  - 🟥 Databricks Certified Data Engineer Professional
+  - 🟥 Databricks Certified Generative AI Engineer Associate
+  - 🟦 Microsoft Certified: Azure Data Engineer Associate
+  - 🟦 Microsoft Certified: Fabric Analytics Engineer Associate
+  - 🟦 Microsoft Certified: Azure Administrator Associate
+  - 🟨 Microsoft Certified: Power BI Data Analyst Associate
+  - 🟩 Lean Six Sigma Green Belt · Scrum Fundamentals Certified
+</details>
 
 ---
 
 <p align="center">
-  <strong>Based in Pune, India · Open to senior and lead cloud data engineering opportunities</strong><br/>
-  <a href="https://anauhwar.github.io/Portfolio/">Explore my portfolio</a> ·
-  <a href="mailto:akash.nauhwar@outlook.com">Start a conversation</a>
+  <strong>📍 Pune, India · Open to senior and lead cloud data engineering opportunities</strong><br/><br/>
+  <a href="https://anauhwar.github.io/Portfolio/">🌐 Explore my portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:akash.nauhwar@outlook.com">✉️ Start a conversation</a>
 </p>
